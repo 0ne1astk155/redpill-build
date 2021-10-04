@@ -20,7 +20,7 @@ Debian10 root 权限下
 
 
 ```shell
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/h0wardch3ng/redpill-build/master/build-ds3617xs-7.0.1..sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/h0wardch3ng/redpill-build/master/build-ds3617xs-7.0.1.sh)"
 ```
 
 
