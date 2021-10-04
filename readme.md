@@ -16,6 +16,12 @@
 
 Debian10 root 权限下
 
+### 🥩 编译 dsm7.0 Ds3617xs
+
+
+```shell
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/h0wardch3ng/redpill-build/master/build-ds3617xs-7.0.1..sh)"
+```
 
 
 ### 🥩 编译 dsm7.0 Ds918+
