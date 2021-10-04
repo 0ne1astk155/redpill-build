@@ -25,6 +25,6 @@ cd ..
 
 # 编译 redpill-load
 cd redpill-load
-curl --location "https://raw.githubusercontent.com/hopolcn/redpill-build/master/user_config.DS3617xs.json" --output user_config.json
+curl --location "https://raw.githubusercontent.com/h0wardch3ng/redpill-build/master/user_config.DS3617xs.json" --output user_config.json
 ./build-loader.sh 'DS3617xs' '7.0.1-42218'
 cd images && ls
